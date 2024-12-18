@@ -1,5 +1,5 @@
 """
-Create by : Ashik Mahmud
+Creator : Ashik Mahmud
 contact : ashikmahmud1104@gmail.com
 """
 
